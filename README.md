@@ -2,11 +2,6 @@
 This is a multiplayer space shooter game developed using Pygame. It features two spaceships battling against each other, with each player having their health bar. The objective is to eliminate the opponent by firing bullets while avoiding enemy bullets.
 
 ![Alt](multiplayer-spaceshooter/image.PNG)
-## How to Play
-
-1. Clone the repository: `git clone https://github.com/your_username/space-war.git`
-2. Install Pygame: `pip install pygame`
-3. Run the game: `python space_war.py`
 
 ## Controls
 
